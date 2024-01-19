@@ -1,0 +1,93 @@
+.attribution { 
+  font-size: 11px; 
+  text-align: center; 
+ }
+.attribution a { 
+   color: hsl(228, 45%, 44%); 
+ }
+body {
+  background-color: hsl(47, 88%, 63%);
+  font-family: 'Figtree';
+  font-size: 16px;
+ }
+.blog{
+ padding: 1rem;
+}
+.blog img{
+ width: 100%;
+ border-radius: 5%; 
+} 
+.container{
+ background-color: hsl(0, 0%, 100%);
+ width: max-content;
+ border-radius: 5%;
+ padding: 1rem;
+ margin: auto;
+ margin-top: 15%;
+ margin-bottom: 15%;
+}
+h1{
+ text-decoration: bold;
+}
+.Gamma{
+ display: flex;
+} 
+.Alpha{
+ margin: 5%;
+ margin-top: 1%;
+ margin-bottom: 1%;
+}
+.action h2{
+ background-color: hsl(47, 88%, 63%);
+ padding-left: 2%;
+ padding-right: 2%;
+ width: max-content;
+ border-radius: 5%;
+}
+.action p{
+ color: hsl(0, 1%, 17%);
+}
+.Beta{
+ margin: 5%;
+ margin-top: 1%;
+ margin-bottom: 1%;
+}
+.custom p{
+ color: hsl(0, 0%, 50%);
+}
+.blog img:hover{
+ position: relative;
+ top: -5px;
+}
+.action h2:hover{
+ position: relative;
+ top: -2px;
+}
+.custom h1:hover{
+ position: relative;
+ top: -2px;
+}
+.container{
+  box-shadow: 10px 10px;
+}
+.AvatarText{
+  display: inline-block;
+  /* text-align: center; */
+  font-weight: bold;
+  /* text-indent: ; */
+  /* letter-spacing: 5px; */
+  
+}
+/* media screen */
+@media screen and (max-width: 375px){
+  .container{
+   position: relative;
+   padding: 1rem;
+  }
+ }
+ @media screen and (max-width: 1440px){
+  .container{
+   position: relative;
+   padding: 1rem;
+  }
+ }
