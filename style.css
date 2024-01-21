@@ -71,12 +71,10 @@ h1{
   box-shadow: 10px 10px;
 }
 .AvatarText{
-  display: inline-block;
-  /* text-align: center; */
+  display: flex;
   font-weight: bold;
-  /* text-indent: ; */
-  /* letter-spacing: 5px; */
-  
+  padding-left: 10px;
+  padding-top: 5px;
 }
 /* media screen */
 @media screen and (max-width: 375px){
