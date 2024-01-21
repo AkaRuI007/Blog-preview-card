@@ -52,6 +52,8 @@ while coding i found it difficult utilizing some css selectors or should i say w
 - [Example resource 1](https://www.w3schools.com) basically helped with css part of the code construction.
 - [Example resource 2](https://www.freecodecamp.com) - i had to learn a thing or two about github, watched some youtube videos from their channel and article reading on some part of css.
 
+## Author
+
 - Frontend Mentor - (https://www.frontendmentor.io/profile/AkaRuI007)
 - Twitter -
 (https://www.twitter.com/@i_am_brite)
